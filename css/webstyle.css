@@ -1,0 +1,207 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.nav{
+	height: 70px;
+	width: 100%;
+	background-color: white;
+	position: fixed;
+	/*-- position: fixed;
+	changes today
+	position: relation;
+	position: absolute;
+	top:;
+	bottom:;
+	left:;
+	right:;
+	--*/
+}
+
+.logoimg{
+	height: 70px;
+	width: 7%;
+	float: left;
+
+}
+
+.logoimg img{
+	height: 70px;
+	width: 100%
+}
+
+.logo{
+	height: 70px;
+	width: 35%;
+	padding: 20px;
+	float: left;
+		font-size: 10px;
+}
+
+.links{
+	width: 50%;
+	height: 70px;
+	float: right;
+
+}
+
+.links ul{
+	float: right;
+	list-style-type: none;
+}
+
+.links ul li{
+	display: inline-block;
+	padding: 20px;
+	font-size: 20px;
+}
+
+.links ul li a{
+	color: black;
+	text-decoration: none;
+}
+
+.links ul li a:hover{
+	text-decoration: underline;
+}
+ 
+}
+.Computerbanner{
+	height : 600px;
+	width: 100%;
+
+}
+
+.Computerbanner img{
+	height: 600px;
+	width: 100%;
+}
+
+
+.discribe{
+	height: 165px;
+	width: 100%;
+	background-color: white;
+	padding: 25px;
+}
+
+.discribe h1 {
+	text-align: center;
+
+}
+
+.discribe p{
+	padding: 10px;
+}
+
+.banner{
+	height: 600px;
+}
+
+.banner-text{
+	height: 600px;
+	width: 50%;
+	float: left;
+	padding-top: 140px;
+	padding-left:100px;
+	padding-right:100px;
+	text-align: center;
+	background-color: #dacec2;
+	font-size: 22px;
+}
+
+.banner-text strong{
+	color: #497d70;
+}
+
+.banner-image{
+	height: 600px;
+	width: 50%;
+	float: right;
+}
+
+.banner-image img{
+	height: 600px;
+	width: 100%;
+}
+
+.about{
+	
+	padding: 20px;
+}
+
+
+.about h2{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+
+.about ul li{
+		padding-left: 70px;
+		padding-right: : 70px;
+		padding-top: 7px;
+		padding-bottom: 7px;
+		margin-left: 100px;
+
+}
+.about p{
+		padding-left: 70px;
+		padding-right: : 70px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-left: 20px;
+		margin-top: 20px;
+
+
+}
+
+.contact-us{
+	height: 500px;
+}
+
+
+.contact-us-form{
+	height: 500px;
+	width: 50%;
+	float: left;
+	background-color:#b8b8b8 ;
+	padding: 50px;
+}
+
+.contact-us-form p{
+	padding: 5px;
+	align-self: center;
+
+}
+
+
+.contact-us-social{
+	height: 500px;
+	width: 50%;
+	float: right;
+	padding-top: 150px;
+	text-align: center;
+}
+
+.social-images img{
+	height: 50px;
+	margin: 20px;
+	filter: grayscale(100%);
+}
+
+.social-images img:hover{
+	filter: grayscale(0);
+}
+
+.footer{
+	text-align: center;
+	padding: 10px;
+}
+
+
+
+
+
